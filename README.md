@@ -7,7 +7,7 @@
   - Smooth hover effects for menu items  
   - Fixed positioning (always visible)
   - 
-    TECHNOLOGIES
+    TECHNOLOGIES:
     HTML
     CSS
     JAVASCRIPT
