@@ -1,5 +1,5 @@
 # Internship-project
- An interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.dynamically changes on scroll and hover.
+ An interactive navigation menu that changes color or style when scrolled or when hovering over a menu item.
 
  Features
 - *Dynamic Navigation Bar*  
